@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @CKBoppudi.
-- 👀 I’m interested in ...Data science projects.
-- 🌱 I’m currently learning ...Data Science Machine learning.
-- 💞️ I’m looking to collaborate on ...Interesting projects.
+
 - 📫 How to reach me ...
 
 <!---
